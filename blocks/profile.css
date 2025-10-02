@@ -47,6 +47,11 @@
   background-color: transparent;
   border: none;
   font-family: poppins, sans-serif;
+  cursor: pointer;
+}
+
+.profile__edit-btn:hover {
+  opacity: 100%;
 }
 
 .profile__add-btn {
@@ -58,6 +63,11 @@
   background-color: #212121;
   border-radius: 8px;
   font-family: poppins, sans-serif;
+  cursor: pointer;
+}
+
+.profile__add-btn:hover {
+  opacity: 80%;
 }
 
 .profile__icon {
