@@ -13,7 +13,7 @@ This project is made to create a webpage from a template design. The design is s
 ## Deployment
 
 Deployed GitHub Pages
-Link: [git@github.com:MEAGANJ03/se_project_spots_final.git](https://github.com/MEAGANJ03/se_project_spots_final.git)
+Link: https://meaganj03.github.io/se_project_spots_final/
 
 ## Spots Overview
 
